@@ -1,0 +1,3 @@
+packaging-slip-generator-bundle.controller:
+  resource: '@PackagingSlipGeneratorBundle/Controller'
+  type: annotation

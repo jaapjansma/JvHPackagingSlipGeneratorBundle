@@ -1,0 +1,7 @@
+services:
+  _defaults:
+    autowire: true
+    autoconfigure: true
+
+  JvH\PackagingSlipGeneratorBundle\Controller\GeneratorController: ~
+  JvH\PackagingSlipGeneratorBundle\EventListener\BackendMenuListener: ~
